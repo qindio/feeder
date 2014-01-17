@@ -1,0 +1,11 @@
+{
+  "author"        : "Aldous Huxley",
+  "title"         : "A Brave New Blog",
+  "base_url"      : "http://www.abravenewblog.com",
+  "base_path"     : "blog",
+  "feed_path"     : "feed.rss",
+  "description"   : "O Wonder!",
+  "content_dir"   : "../content",
+  "title_tag"     : "h1"
+}
+
